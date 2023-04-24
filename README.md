@@ -1,36 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<a href="https://fcexperience.fullcycle.com.br/">
+   <img src="https://events-fullcycle.s3.amazonaws.com/events-fullcycle/media/images/962edb195c0448df860fbea9304a7f24.png" alt="FCLX" title="Full Cycle Learning Experience" align="right" height="60" />
+</a>
 
-## Getting Started
+# Full Cycle Learning Experience
 
-First, run the development server:
+Para acessar todas as aulas e lives, acesse: https://fcexperience.fullcycle.com.br/
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+### Aula 01
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Docker e Containers e Microsserviço do ChatGPT
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Aula 02
 
-[http://localhost:3000/api/hello](http://localhost:3000/api/hello) is an endpoint that uses [Route Handlers](https://beta.nextjs.org/docs/routing/route-handlers). This endpoint can be edited in `app/api/hello/route.ts`.
+gRPC vs REST: Comunicação entre microsserviços do ChatGPT na prática
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### Aula 03
 
-## Learn More
+Backend for Frontend com Next.js
 
-To learn more about Next.js, take a look at the following resources:
+### Aula 04
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Frontend do ChatGPT com Next.js e React
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Aula 05
 
-## Deploy on Vercel
+KeyCloak: Integrando servidor de identidade
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<img src="./arquitetura do projeto.png" alt="FCLX" title="Full Cycle Learning Experience" />
